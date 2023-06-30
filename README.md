@@ -58,7 +58,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-PARA RODAR O BANDO DE DADOS
+PARA RODAR O BANCO DE DADOS
 
 Executar o arquivo docker-compose.yaml como comando: $docker-compose up
 
